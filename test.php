@@ -1,5 +1,5 @@
 <?php
 #testing github again
 echo "test github";
-echo "commiting new changes for test34";
+echo "commiting new changes for test";
 ?>
